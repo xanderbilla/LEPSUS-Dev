@@ -9,7 +9,7 @@ This repository serves as a dedicated space to manage and organize LEPSUS's work
 
 ## Table of Contents
 
-- [Event Page (For Static Website)]()
+- [Event Page (For Static Website)](https://github.com/xanderbilla/LEPSUS-Dev/tree/Static-Event-Page-UI)
 
 
 ## Support
