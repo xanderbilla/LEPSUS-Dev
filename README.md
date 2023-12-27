@@ -1,20 +1,37 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+[**Back to Main Page**](https://github.com/xanderbilla/LEPSUS-Dev)
+# Event Page
+
+This webpage features event cards with titles, images, pricing, and registration buttons, along with sorting options and social links.
 
 
-# LEPSUS | My Workspace
 
-This repository serves as a dedicated space to manage and organize LEPSUS's work across various projects and pages. It facilitates seamless collaboration among team members by providing a centralized hub for tracking progress and sharing updates.
+## Screenshots
 
-
-## Table of Contents
-
-- [Event Page (For Static Website)]()
+![App Screenshot](https://xanderbilla.s3.ap-south-1.amazonaws.com/LEPSUS/Event+Page+(UI+Only).png)
 
 
-## Support
+## Run Locally
 
-For support, email support@lepsus.com
-## Copyright
+Clone the project
 
-This GitHub repository is owned by [Vikas Singh](https://github.com/xanderbilla) as the developer, while being associated with **LEPSUS**. The content within is subject to copyright protection, and any use or distribution should adhere to the specified licensing terms.
+```bash
+  git clone --single-branch --branch Static-Event-Page-UI https://github.com/xanderbilla/LEPSUS-Dev.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Open VS Code
+
+```bash
+  code .
+```
+Click on 'Go Live' present at bottom right of VS Code
+
+
+*Install Live Server if not insalled, from clicking [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)*
+
